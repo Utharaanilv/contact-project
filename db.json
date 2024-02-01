@@ -1,0 +1,102 @@
+{
+  "contacts": [
+    {
+      "id": "ca1",
+      "name": "Lee Min",
+      "email": "Sincere@april.biz",
+      "photo": "https://media.licdn.com/dms/image/C4D03AQHk9E6ICV4MLA/profile-displayphoto-shrink_400_400/0/1635666932116?e=2147483647&v=beta&t=LLiJLTqZzffaqDSs2fkx5LpLMP1IeI-ZSmF9FolgoG4",
+      "mobile": "9876543210",
+      "company": "Romaguera-Crona",
+      "title": "Developer",
+      "groupId": "1"
+    },
+    {
+      "id": "ca2",
+      "name": "Mark",
+      "email": "Shanna@melissa.tv",
+      "photo": "https://media.licdn.com/dms/image/C4E03AQEEZUPHzQoE0A/profile-displayphoto-shrink_400_400/0/1623677348445?e=2147483647&v=beta&t=4yBsLbVOvjpli7F64hdqdgYCNg6KkkCwqV8WIHW-YZA",
+      "mobile": "9876543210",
+      "company": "Deckow-Crist",
+      "title": "Network Admin",
+      "groupId": "2"
+    },
+    {
+      "id": "ca3",
+      "name": "Cristy",
+      "email": "Nathan@yesenia.net",
+      "photo": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=1423",
+      "mobile": "9876543210",
+      "company": "Romaguera-Jacobson",
+      "title": "Tester",
+      "groupId": "3"
+    },
+    {
+      "id": "ca4",
+      "name": "patricia",
+      "email": "Julianne.OConner@kory.org",
+      "photo": "https://tse3.mm.bing.net/th?id=OIP.JAKbO1hgHRWAwjGNNVAgnAHaIr&pid=Api&P=0",
+      "mobile": "9876543210",
+      "company": "Robel-Corkery",
+      "title": "Developer",
+      "groupId": "4"
+    },
+    {
+      "id": "ca5",
+      "name": "Alice",
+      "email": "Lucio_Hettinger@annie.ca",
+      "photo": "https://t3.ftcdn.net/jpg/05/52/15/68/360_F_552156839_hQTIBjd35zljkgSz65pDaUUSyKK53DtZ.jpg",
+      "mobile": "9876543210",
+      "company": "Keebler LLC",
+      "title": "HR",
+      "groupId": "1"
+    },
+    {
+      "id": "ca6",
+      "name": "Park shin",
+      "email": "Karley_Dach@jasper.info",
+      "photo": "https://media.istockphoto.com/id/1386479313/photo/happy-millennial-afro-american-business-woman-posing-isolated-on-white.webp?b=1&s=170667a&w=0&k=20&c=ahypUC_KTc95VOsBkzLFZiCQ0VJwewfrSV43BOrLETM=",
+      "mobile": "9876543210",
+      "company": "Considine-Lockman",
+      "title": "Developer",
+      "groupId": "2"
+    },
+    {
+      "id": "ca7",
+      "name": "John",
+      "email": "Telly.Hoeger@billy.biz",
+      "photo": "https://images.ctfassets.net/lh3zuq09vnm2/yBDals8aU8RWtb0xLnPkI/19b391bda8f43e16e64d40b55561e5cd/How_tracking_user_behavior_on_your_website_can_improve_customer_experience.png",
+      "mobile": "9876543210",
+      "company": "Johns Group",
+      "title": "Data Analyst",
+      "groupId": "3"
+    },
+    {
+      "id": "ca8",
+      "name": "Justin",
+      "email": "Sherwood@rosamond.me",
+      "photo": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+      "mobile": "9876543210",
+      "company": "Abernathy Group",
+      "title": "Developer",
+      "groupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Friends"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Collegues"
+    },
+    {
+      "id": "4",
+      "name": "Social"
+    }
+  ]
+}
